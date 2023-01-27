@@ -8,7 +8,7 @@
     "location": "Somewhere",
     "date": "January 28, 2023",
     "time": "12:00",
-    "organizer": "Name lastname",
+    "organizer": "Name lastname"
   },
   {
     "id": 32546,
@@ -18,7 +18,7 @@
     "location": "Somewhere",
     "date": "January 28, 2023",
     "time": "12:00",
-    "organizer": "Name lastname",
+    "organizer": "Name lastname"
   },
   {
     "id": 32547,
@@ -28,7 +28,7 @@
     "location": "Somewhere",
     "date": "January 28, 2023",
     "time": "12:00",
-    "organizer": "Name lastname",
+    "organizer": "Name lastname"
   }
 ]
 }
